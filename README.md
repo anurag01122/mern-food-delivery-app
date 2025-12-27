@@ -13,6 +13,15 @@
 
 ## 📊 Introduction
 This is a full-stack food ordering web application built using the MERN stack (MongoDB, Express, React, Node.js). The application consists of a customer-facing app for ordering food and an admin app for managing orders, menu items, and more.
+## 🚀 Live Demo
+
+- **User Panel:**  
+  👉 https://mern-food-delivery-app-1-p8f0.onrender.com
+
+- **Admin Panel:**  
+  👉 https://food-delivery-admin-uz91.onrender.com
+
+---
 
 ## 🚀 Features
 - User authentication and authorization
@@ -41,7 +50,7 @@ Make sure you have Node.js (v20+ recommended) and npm installed.
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/DulanjaliSenarathna/mern-food-delivery-app.git
+git clone https://github.com/anurag01122/mern-food-delivery-app.git
 cd mern-food-delivery-app
 ```
 
@@ -112,8 +121,8 @@ npm run dev
 ```
 
 ## Usage
-Access the customer-facing app at http://localhost:5173.
-Access the admin app at http://localhost:5174.
+Access the customer-facing app at (https://mern-food-delivery-app-1-p8f0.onrender.com)
+Access the admin app at (https://food-delivery-admin-uz91.onrender.com)
 Register as a new user or log in with existing credentials.
 Browse the menu, add items to the cart, and place an order.
 Pay using dummy visa card
@@ -149,18 +158,12 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 👨‍💻 Contributors
 
-[Dulanjali Senarathna](https://github.com/DulanjaliSenarathna)
+[Anurag Kumar](https://github.com/anurag01122)
  — Project Owner
-
-[prem2621](https://github.com/prem2621)
- — Bug fixes, secure env handling, image display improvement
 
 ## 📫 Contact
 For any questions or suggestions, feel free to contact me.
 
-Happy coding!
-
-Feel free to customize this template according to your specific project details and requirements.
 
 
 
