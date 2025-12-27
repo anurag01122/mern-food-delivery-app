@@ -16,7 +16,7 @@ This is a full-stack food ordering web application built using the MERN stack (M
 ## 🚀 Live Demo
 
 - **User Panel:**  
-  👉 https://mern-food-delivery-app-1-p8f0.onrender.com
+  👉 https://mern-food-delivery-frontend-d3fz.onrender.com
 
 - **Admin Panel:**  
   👉 https://food-delivery-admin-uz91.onrender.com
