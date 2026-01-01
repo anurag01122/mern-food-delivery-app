@@ -15,15 +15,13 @@ const port = process.env.PORT || 4000
 app.use(express.json());
 
 app.use(cors({
-  origin: [
-    "http://localhost:3000",
-    "https://mern-food-delivery-frontend-d3fz.onrender.com"
-  ],
+  origin: true, // 👈 allow all origins (safe for now)
   methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-  allowedHeaders: ["Content-Type", "Authorization"],
+  allowedHeaders: ["Content-Type", "token"],
   credentials: true
 }));
 
+// ✅ REQUIRED for browser preflight
 app.options("*", cors());
 
 //db connection
